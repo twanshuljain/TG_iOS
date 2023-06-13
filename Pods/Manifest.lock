@@ -1,0 +1,24 @@
+PODS:
+  - AdvancedPageControl (0.9.0)
+  - iOSDropDown (0.4.0)
+  - SideMenu (6.5.0)
+
+DEPENDENCIES:
+  - AdvancedPageControl
+  - iOSDropDown
+  - SideMenu
+
+SPEC REPOS:
+  trunk:
+    - AdvancedPageControl
+    - iOSDropDown
+    - SideMenu
+
+SPEC CHECKSUMS:
+  AdvancedPageControl: 39e3b32b00b2d324c534f8e17cc6c5be9abe84b7
+  iOSDropDown: ce9daa584eaa5567cafc1b633e3cc7eb6d9cea42
+  SideMenu: f583187d21c5b1dd04c72002be544b555a2627a2
+
+PODFILE CHECKSUM: e9aed22e2b69680c5247560a494a3a4f5c20dff3
+
+COCOAPODS: 1.12.1
